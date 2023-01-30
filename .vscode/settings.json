@@ -1,0 +1,8 @@
+{
+    "discord.lowerDetailsEditing": "Workspace: {current_line}",
+    "discord.lowerDetailsNoWorkspaceFound": "{empty}",
+    "discord.removeRemoteRepository": true,
+    "discord.detailsIdling": "nerf git",
+    "discord.detailsDebugging": "Debugging {git_branch}",
+    "discord.detailsEditing": "Editing {git_branch}"
+}
